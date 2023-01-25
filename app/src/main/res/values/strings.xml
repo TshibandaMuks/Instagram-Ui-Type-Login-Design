@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">
+        Ui_Design
+    </string>
+
+    <string name="sgn_ftr" >
+     Get help signing in
+    </string>
+</resources>
